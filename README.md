@@ -1,5 +1,6 @@
 # Homework 6
 [Live Site](https://jonswallow.github.io/441Again/)
+---
 [Repository](https://github.com/JonSwallow/441Again)
 ### Technical Report
 
