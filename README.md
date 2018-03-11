@@ -5,7 +5,7 @@
 ### Technical Report
 
 ## Overview
-Another week I could not center my graphic or my link the way I wanted. I beleive this is because there is a limitation in editing this way. No one has tried to solve it because it was always easier to do something like that in CSS or HTML.
+Another week I could not center my graphic or my link the way I wanted. I believe this is because there is a limitation in editing this way. No one has tried to solve it because it was always easier to do something like that in CSS or HTML.
 
 ### Code
 ```
@@ -34,7 +34,7 @@ body.appendChild(el);
 ```
 
 ## Problems
-Well I very well might not have gotten this done withoug Dr. Musicks help.
+Well I very well might not have gotten this done without Dr. Musick's help.
 ### Results
 ![Screen1](images/screen1.png)
 
@@ -46,5 +46,5 @@ We keep trying. Still have the Discord thing aobut 5 of us involved.
 
 #### Conclusions
 
-When aggrivated by coding; stop, breathe and look for a solution.
+When aggravated by coding; stop, breathe and look for a solution.
 (test)
